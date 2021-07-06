@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## High level test plan c
+## High level testplan 
 
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
